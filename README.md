@@ -2,10 +2,7 @@
 
 The goal of this project is to compute the execution frequencies of basic blocks of CUDA kernels, derived from LLVM IR before kernel runtime.
 The code has been used to evaluate and compare the static method to the execution-based profiling tool [CUDA Flux](https://github.com/UniHD-CEG/cuda-flux).
-More details on the underlying methods and results will be provided in corresponding publication "CUDAsap: Statically-Determined Execution Statistics as Alternative to Execution-Based Profiling" by Emonds, Braun and Fröning (to be published at CCGRID 2023).
-
-TODO:
-* upload to Github and Zenodo
+More details on the underlying methods and results will be provided in corresponding publication **CUDAsap: Statically-Determined Execution Statistics as Alternative to Execution-Based Profiling** by Emonds, Braun and Fröning (to be published at CCGRID 2023).
 
 ## Prerequisites
 

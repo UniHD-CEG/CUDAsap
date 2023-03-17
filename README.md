@@ -11,6 +11,7 @@ More details on the underlying methods and results will be provided in correspon
 * LLVM 10.0
 * CUDA 11.0
 * Python 3 with Sympy 1.4 and NumPy >= 1.13
+* re2c lexer generator (http://re2c.org/)
 
 ## Compilation
 The host and the device pass can be compiled into one shared library using the CMake file given in `passes/combinedHDPass`.
